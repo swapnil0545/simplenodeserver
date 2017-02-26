@@ -1,0 +1,22 @@
+{
+  "name": "simplenodeserver",
+  "version": "1.0.0",
+  "description": "This is a very simple web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil0545/simplenodeserver.git"
+  },
+  "keywords": [
+    "simplenodeserver"
+  ],
+  "author": "Swapnil Mhaske",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/swapnil0545/simplenodeserver/issues"
+  },
+  "homepage": "https://github.com/swapnil0545/simplenodeserver#readme"
+}
